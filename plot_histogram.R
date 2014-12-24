@@ -1,5 +1,4 @@
 library(ggplot2)
-set.seed(944) # so my results can be replicated.
 nosim <- 1000
 lambda <- 0.2
 samplesize <- 40
